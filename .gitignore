@@ -1,0 +1,41 @@
+# Maven and Java build outputs
+/target/
+/build/
+/out/
+*.class
+*.jar
+*.war
+*.ear
+
+# Data created or edited while running the application
+/data/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+
+# Local editor settings
+/.vscode/
+*.swp
+*.swo
+*~
+
+# OS metadata and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
