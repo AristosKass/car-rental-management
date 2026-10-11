@@ -110,3 +110,5 @@ This is a local academic prototype. Passwords are stored as plaintext CSV values
 
 - Αριστοτέλης Κασσελούρης
 - Αλεξάνδρα Αντώνογλου
+
+for the "Object-oriented Programming" course.
